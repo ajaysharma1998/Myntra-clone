@@ -1,0 +1,50 @@
+.headerbox{
+    max-width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    
+}
+.imgbox{
+    width: 7%;
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+
+}
+.logo{
+    width:60px ;
+}
+.parabox{
+    display: flex;
+    width: 50%;
+    justify-content: space-evenly;
+    margin-right: 2rem;
+    
+}
+.para{
+    text-transform: uppercase;
+}
+.inputbox{
+    width: 26%;
+    display: flex;
+
+}
+span{
+    position: relative;
+    left: 30px;
+    top: 6px;
+}
+.inputbox input{
+    width: 100%;
+    height: 30px;
+    padding-left: 30px;
+}
+
+.bagProfile{
+    width: 17%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
